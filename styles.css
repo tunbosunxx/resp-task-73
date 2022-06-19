@@ -3,7 +3,7 @@
 }
 
 body{
-    background:url(/images/bg-intro-desktop.png);
+    background:url('/images/bg-intro-desktop.png');
     background-color:  hsl(0, 100%, 74%);
     
 }
